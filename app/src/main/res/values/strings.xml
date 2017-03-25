@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Adam Learning</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="en_lan" translatable="false">English Language</string>
+    <string name="ar_lan" translatable="false">اللغة العربية</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-8437814395514951/8045900821</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
